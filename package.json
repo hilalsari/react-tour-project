@@ -1,0 +1,23 @@
+{
+  "name": "react-tour-project",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "test": "(eslint lib || true) && jest"
+  },
+  "repository": "git+https://github.com/hilalsari/react-tour-project.git",
+  "author": "hilalsari <hilalsari426@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilalsari/react-tour-project/issues"
+  },
+  "homepage": "https://github.com/hilalsari/react-tour-project#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
